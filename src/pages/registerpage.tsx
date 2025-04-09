@@ -3,7 +3,7 @@ import Register from '../components/Register'
 
 const Registerpage = () => {
   return (
-    <main className='class="flex-grow"'>
+    <main className='class="flex-grow bg-blue-50"'>
         <Register />
     </main>
   )
